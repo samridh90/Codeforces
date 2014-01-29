@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/119/A
 def gcd(a, b):
     if b == 0:
         return a

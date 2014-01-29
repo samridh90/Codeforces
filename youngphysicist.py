@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/69/A
 def is_in_equilibrium(v, n):
     s1 = 0
     s2 = 0

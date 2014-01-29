@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/158/A
 def nextRound():
     n, k = map(int, raw_input().strip().split())
     nums = map(int, raw_input().strip().split())
@@ -18,7 +19,7 @@ def findNextMin(nums, k, low, high):
             low = mid + 1
         else:
             high = mid
-    return high 
+    return high
 
 if __name__ == '__main__':
     print nextRound()

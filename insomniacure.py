@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/148/A
 def dragonDamage():
     k = int(raw_input().strip())
     l = int(raw_input().strip())

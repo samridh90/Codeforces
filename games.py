@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/268/A
 from collections import Counter
 
 def host_guest_color():

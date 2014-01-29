@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/61/A
 def get_diff(a, b):
     res = []
     for i, j in zip(a, b):

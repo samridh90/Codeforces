@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/144/A
 def get_max_index(lst):
     l = len(lst) - 1
     m = max(lst)

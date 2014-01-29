@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/266/B
 def get_final_queue(q, t):
     l = len(q) - 1
     for i in xrange(t):

@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/263/A
 def beautiful_matrix(n):
     center = (n // 2, n // 2)
     for i in xrange(n):

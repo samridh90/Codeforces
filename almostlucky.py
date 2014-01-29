@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/110/A
 from collections import Counter
 
 def lucky():

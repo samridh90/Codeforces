@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/136/A
 def get_presents(p):
     l = len(p)
     res = [0] * l

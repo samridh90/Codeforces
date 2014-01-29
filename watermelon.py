@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/4/A
 def canDivide():
     w = int(raw_input())
     if not w or w <= 2:

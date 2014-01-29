@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/58/A
 def said_hello(t):
     s = "hello"
     i = 0

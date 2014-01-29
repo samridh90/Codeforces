@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/71/A
 def abbrWord():
 	n = int(raw_input())
 	for i in xrange(n):

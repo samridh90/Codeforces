@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/131/A
 def capsLock():
 	s = raw_input().strip()
 	if s.isupper():

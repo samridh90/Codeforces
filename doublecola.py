@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/82/A
 def doubleCola():
     n = long(raw_input().strip())
     names = ["Sheldon", "Leonard", "Penny", "Rajesh", "Howard"]

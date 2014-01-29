@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/266/A
 def stones():
 	n = int(raw_input().strip())
 	s = list(raw_input().strip())

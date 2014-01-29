@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/122/A
 def is_lucky(n):
     s = str(n)
     lucky_digits = {'4': True, '7': True}

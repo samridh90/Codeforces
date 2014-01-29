@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/282/A
 def bitplusplus():
 	n = int(raw_input().strip())
 	x = 0

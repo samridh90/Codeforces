@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/112/A
 def stringGame():
 	s1 = list(raw_input().strip().lower())
 	s2 = list(raw_input().strip().lower())

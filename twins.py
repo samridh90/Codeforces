@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/160/A
 def twinCoins():
 	int(raw_input())
 	l = map(int, raw_input().strip().split())

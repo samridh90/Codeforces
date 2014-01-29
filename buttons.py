@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/268/B
 def get_button_presses(n):
     s1 = n
     s2 = (n * (n - 1) * n) // 2

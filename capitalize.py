@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/281/A
 def capitalize():
 	s = raw_input().strip()
 	if not s[0].isupper():

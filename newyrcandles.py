@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/379/A
 def get_number_of_candles(a, b):
     res = a
     rem = 0

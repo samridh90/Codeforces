@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/155/A
 def get_amazing_perfs(scores):
     mn = scores[0]
     mx = scores[0]

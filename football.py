@@ -1,3 +1,4 @@
+#http://codeforces.com/problemset/problem/96/A
 def football():
 	s = list(raw_input().strip())
 	count = 1
